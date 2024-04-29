@@ -20,9 +20,10 @@ This repo collects papers connected with 3D generation.
   <tr>
     <td><a href="https://arxiv.org/abs/2403.14621">GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation</a> </td>
     <td>03.2024</td>
-    <td>[Empty repository](https://github.com/justimyhxu/GRM?tab=readme-ov-file) [HuggingFace Demo](https://huggingface.co/spaces/GRM-demo/GRM)</td>
+    <td><a href="https://github.com/justimyhxu/GRM?tab=readme-ov-file">Empty repository</a> 
+	<a href="https://huggingface.co/spaces/GRM-demo/GRM">HuggingFace Demo</a></td>
 	<td>
-		<p float="left"> 
+		<p float="center"> 
 			<img src="assets/GRM/dreamcraft3d_00.png" width="100" />  
 			<img src="assets/GRM/gs.gif" width="100" /> 
 		</p>
