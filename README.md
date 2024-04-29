@@ -24,7 +24,7 @@ This repo collects papers connected with 3D generation.
 	<a href="https://huggingface.co/spaces/GRM-demo/GRM">HuggingFace Demo</a></td>
 	<td>
 		<div id="row">
-			<img src="assets/GRM/dreamcraft3d_00.png" width="100" />  <img src="assets/GRM/gs.gif" width="100" /> 
+			<img align="left" src="assets/GRM/dreamcraft3d_00.png" width="100" />  <img align="right" src="assets/GRM/gs.gif" width="100" /> 
 		</div>
 	</td>
   </tr>
