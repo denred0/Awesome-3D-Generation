@@ -9,4 +9,4 @@ This repo collects papers connected with 3D generation.
 ## Image to 3D
 | Paper | Release | Code / Demo | Testing Results |
 | :----------------------------------------------------------: | :-------: | :-------: | :-----------------------------------------------------: |
-| [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621) | 03.2024 | [Empty repository](https://github.com/justimyhxu/GRM?tab=readme-ov-file) [HuggingFace Demo](https://huggingface.co/spaces/GRM-demo/GRM) | <p float="center"> <img src="assets/GRM/dreamcraft3d_00.png" width="50" /> <img src="assets/GRM/gs.gif" width="50" /> </p> |
+| [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621) | 03.2024 | [Empty repository](https://github.com/justimyhxu/GRM?tab=readme-ov-file) [HuggingFace Demo](https://huggingface.co/spaces/GRM-demo/GRM) | ![](assets/GRM/dreamcraft3d_00.png | width=100) ![](assets/GRM/gs.gif | width=100) |
