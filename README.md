@@ -23,7 +23,7 @@ This repo collects papers connected with 3D generation.
     <td><a href="https://github.com/justimyhxu/GRM?tab=readme-ov-file">Empty repository</a> 
 	<a href="https://huggingface.co/spaces/GRM-demo/GRM">HuggingFace Demo</a></td>
 	<td>
-		<p float="center"> 
+		<p float="middle"> 
 			<img src="assets/GRM/dreamcraft3d_00.png" width="100" />  
 			<img src="assets/GRM/gs.gif" width="100" /> 
 		</p>
