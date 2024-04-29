@@ -18,9 +18,14 @@ This repo collects papers connected with 3D generation.
 	<th>Testing Results</th>
   </tr>
   <tr>
-    <td>[GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621)</td>
+    <td><a href="https://arxiv.org/abs/2403.14621">GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation</a> </td>
     <td>03.2024</td>
     <td>[Empty repository](https://github.com/justimyhxu/GRM?tab=readme-ov-file) [HuggingFace Demo](https://huggingface.co/spaces/GRM-demo/GRM)</td>
-	<td><p> <img src="assets/GRM/dreamcraft3d_00.png" width="100" />  <img src="assets/GRM/gs.gif" width="100" /> </p></td>
+	<td>
+		<p float="left"> 
+			<img src="assets/GRM/dreamcraft3d_00.png" width="100" />  
+			<img src="assets/GRM/gs.gif" width="100" /> 
+		</p>
+	</td>
   </tr>
 </table>
