@@ -17,6 +17,13 @@ This repo collects papers connected with 3D generation.
 | [OpenLRM: Open-Source Large Reconstruction Models](https://arxiv.org/abs/2311.04400) | 11.2023 | [Code](https://github.com/3DTopia/OpenLRM)<br>[Colab](https://colab.research.google.com/drive/15uq46FFdzEXUfOuR-TPEpZzfgrb2q-GO?usp=sharing)<br>[HF Demo](https://huggingface.co/spaces/zxhezexin/OpenLRM) | GenTime: 1 min<br>GPU: 15Gb (base model), >40Gb (large model) | <img src="assets/OpenLRM/mickey-mouse.gif" width="120" /> |
 
 
+## Text to 3D
+| Paper | Release | Code / Demo | Testing Specs | Testing Results |
+| :---------------------------------------------------------- | :-------: | :-------: | :-----------: | :-----------: |
+| [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621) | 03.2024 | [Code (empty)](https://github.com/justimyhxu/GRM?tab=readme-ov-file) <br> [HF Demo](https://huggingface.co/spaces/GRM-demo/GRM) | GenTime: 2 min  | <img src="assets/GRM/gs.gif" width="120" />  |
+
+
+
 ## Human Generation
 | Paper | Release | Code / Demo | Testing Specs | Testing Results |
 | :---------------------------------------------------------- | :-------: | :-------: | :-----------: | :-----------: |
