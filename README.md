@@ -20,4 +20,4 @@ This repo collects papers connected with 3D generation.
 ## Human Generation
 | Paper | Release | Code / Demo | Testing Specs | Testing Results |
 | :---------------------------------------------------------- | :-------: | :-------: | :-----------: | :-----------: |
-| [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://arxiv.org/pdf/2404.10394) | 04.2024 | [Code](https://github.com/oneThousand1000/Portrait3D) | GenTime: 30 min<br>GPU: 24GB<br>No mesh reconstruction (only .mrc file) | <img src="assets/Portrait3D/photo.jpeg" width="120" /> |
+| [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://arxiv.org/pdf/2404.10394) | 04.2024 | [Code](https://github.com/oneThousand1000/Portrait3D) | GenTime: 30 min<br>GPU: 24GB<br>No mesh (only .mrc file) | <img src="assets/Portrait3D/photo.jpeg" width="120" /> |
